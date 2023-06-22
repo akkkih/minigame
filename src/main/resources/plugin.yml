@@ -1,0 +1,7 @@
+name: Minigame
+version: '${version}'
+main: com.akkih.minigame.Minigame
+api-version: '1.20'
+commands:
+  minigame:
+    description: "Minigame command"
